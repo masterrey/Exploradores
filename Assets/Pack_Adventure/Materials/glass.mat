@@ -148,7 +148,7 @@ Material:
     - _SelfShadingSizeExtra: 0.66
     - _ShadowEdgeSize: 0.085
     - _ShadowEdgeSizeExtra: 0.247
-    - _Smoothness: 0.114
+    - _Smoothness: 1
     - _SmoothnessTextureChannel: 0
     - _SpecularEnabled: 0
     - _SpecularHighlights: 1
